@@ -2,6 +2,52 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-04-10)
+
+<section class="features">
+
+### Features
+
+-   [`e2cb754`](https://github.com/stdlib-js/stdlib/commit/e2cb754df4df20314ca85ade73ff9d8f06c44159) - add C implementation for `blas/ext/base/ndarray/dnansum` [(#10715)](https://github.com/stdlib-js/stdlib/pull/10715)
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`e2cb754`](https://github.com/stdlib-js/stdlib/commit/e2cb754df4df20314ca85ade73ff9d8f06c44159) - **feat:** add C implementation for `blas/ext/base/ndarray/dnansum` [(#10715)](https://github.com/stdlib-js/stdlib/pull/10715) _(by Kaustubh Patange, Athan Reines, Gururaj Gurram)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 3 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Gururaj Gurram
+-   Kaustubh Patange
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-08)
