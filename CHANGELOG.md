@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-10)
+## Unreleased (2026-05-09)
 
 <section class="features">
 
@@ -22,6 +22,8 @@
 
 <details>
 
+-   [`6c34427`](https://github.com/stdlib-js/stdlib/commit/6c34427a131a254d4118982b37bf65e975d3c028) - **chore:** modernize examples and benchmarks _(by Athan Reines)_
+-   [`ffdaaa6`](https://github.com/stdlib-js/stdlib/commit/ffdaaa6c4d5357d1436a12c26f8e8733b3f5be8f) - **chore:** modernize examples and benchmarks _(by Athan Reines)_
 -   [`e2cb754`](https://github.com/stdlib-js/stdlib/commit/e2cb754df4df20314ca85ade73ff9d8f06c44159) - **feat:** add C implementation for `blas/ext/base/ndarray/dnansum` [(#10715)](https://github.com/stdlib-js/stdlib/pull/10715) _(by Kaustubh Patange, Athan Reines, Gururaj Gurram)_
 
 </details>
